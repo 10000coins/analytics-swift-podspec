@@ -13,7 +13,7 @@
     "git": "https://github.com/segmentio/analytics-swift.git",
     "tag": "1.2.0"
   },
-  "source_files": "AnalyticsSwift/*.swift",
+  "source_files": "Sources/Segment/*.swift",
   "platforms": {
     "ios": "8.0",
     "osx": "10.9"
