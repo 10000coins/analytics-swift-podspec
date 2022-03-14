@@ -1,7 +1,6 @@
 
 Pod::Spec.new do |s|
   s.name             = "AnalyticsSwift"
-  s.module_name      = "Segment"
   s.version          = "1.2.0"
   s.summary          = "The hassle-free way to add analytics to your iOS app."
 
